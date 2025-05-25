@@ -1,7 +1,7 @@
 # Data-Analytics-Fiverr-Project2
 Data-Analytics-Fiverr-Project2
 -------------------------------------------------------------------------------------
-<h1> REQUIREMENTS: <h1>
+<h1> REQUIREMENTS: </h1>
 Hi I hope this message finds you well.
 
 I have an excel assignment which I would like to seek some help. The excel contains a list of orders (indicated by order ID) of various products from a store and I'm supposed to provide an analysis. I have noticed that the table includes multiple rows of the same order ID but with different products. 
